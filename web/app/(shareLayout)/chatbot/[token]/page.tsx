@@ -9,5 +9,5 @@ const Chatbot: FC<IMainProps> = () => {
     <Main />
   )
 }
-
+console.log(Chartbot)
 export default React.memo(Chatbot)
